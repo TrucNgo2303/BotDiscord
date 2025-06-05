@@ -1,0 +1,15 @@
+{
+  "name": "bot_play_valorant_true",
+  "version": "1.0.0",
+  "description": "Teaching you how to play valorant right",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ngo Xuan Truc",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  }
+}
